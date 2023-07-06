@@ -1,2 +1,2 @@
-var name1 = ("thsi is testing only");
-console.log(name1);
+var namethis = ("This is testing only");
+console.log(namethis);
